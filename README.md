@@ -24,7 +24,7 @@ The dashboard simulates new customer data arriving one month at a time. The mode
 | Path | Contents |
 |---|---|
 | `app.py` | Streamlit dashboard |
-| `notebooks/churn_pipeline.ipynb` | Exploratory data analysis, preprocessing, drift simulation, model training, evaluation, statistical tests and SHAP |
+| `notebook/churn_pipeline.ipynb` | Exploratory data analysis, preprocessing, drift simulation, model training, evaluation, statistical tests and SHAP |
 | `files/` | Data and trained model used by the dashboard |
 
 ## Running it yourself
